@@ -14,7 +14,7 @@ It's Minesweeper, the classic game we all know and love! Here's a quick rundown:
 
 - **index.html:** The main HTML file.
 - **style.css:** Styles for the Minesweeper grid.
-- **script.js:** The JavaScript file containing the game logic.
+- **app.js:** The JavaScript file containing the game logic.
 
 ## Acknowledgments 🙌
 
