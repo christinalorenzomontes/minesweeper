@@ -11,10 +11,15 @@
     margin-bottom: 10px;
     border: 10px solid #dcd6bc;
     display: flex;
+    flex-wrap: wrap;
 }
 
-div {
+.grid div {
     font-size: 25px;
     text-align: center;
     font-family: "Roboto Mono", monospace;
+    width: 40px;
+    height: 40px;
+    border: 1px solid red;
+    box-sizing: border-box;
 }
